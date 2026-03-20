@@ -19,5 +19,8 @@ cd ~/Developer/skills
 
 | Skill          | Agent  | Description                                                      |
 |----------------|--------|------------------------------------------------------------------|
-| `grill-me`     | Claude | Interview you relentlessly about a plan or design                |
-| `write-a-prd`  | Claude | Create a PRD through user interview and submit as a GitHub issue |
+| `grill-me`                       | Claude | Interview you relentlessly about a plan or design                |
+| `improve-codebase-architecture`  | Claude | Find and propose architectural improvements via deep modules     |
+| `prd-to-issues`                  | Claude | Break a PRD into GitHub issues using vertical slices             |
+| `tdd`                            | Claude | Test-Driven Development with vertical slices and tracer bullets  |
+| `write-a-prd`                    | Claude | Create a PRD through user interview and submit as a GitHub issue |
